@@ -1,4 +1,4 @@
 f <- function() {
-  if (TRUE)
-    NULL
+  if (FALSE)
+    TRUE
 }
